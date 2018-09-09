@@ -1,0 +1,11 @@
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\bin\Debug\netcoreapp2.0\ClassicComputing.deps.json
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\bin\Debug\netcoreapp2.0\ClassicComputing.runtimeconfig.json
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\bin\Debug\netcoreapp2.0\ClassicComputing.runtimeconfig.dev.json
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\bin\Debug\netcoreapp2.0\ClassicComputing.dll
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\bin\Debug\netcoreapp2.0\ClassicComputing.pdb
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.csproj.CoreCompileInputs.cache
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.AssemblyInfoInputs.cache
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.AssemblyInfo.cs
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.dll
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.pdb
+C:\Users\sony6\source\repos\ClassicComputing\ClassicComputing\obj\Debug\netcoreapp2.0\ClassicComputing.csprojAssemblyReference.cache

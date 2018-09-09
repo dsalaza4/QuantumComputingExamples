@@ -1,0 +1,11 @@
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.csprojAssemblyReference.cache
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.csproj.CoreCompileInputs.cache
+C:\Users\sony6\source\repos\Superposition\Superposition\bin\Debug\netcoreapp2.0\Superposition.deps.json
+C:\Users\sony6\source\repos\Superposition\Superposition\bin\Debug\netcoreapp2.0\Superposition.runtimeconfig.json
+C:\Users\sony6\source\repos\Superposition\Superposition\bin\Debug\netcoreapp2.0\Superposition.runtimeconfig.dev.json
+C:\Users\sony6\source\repos\Superposition\Superposition\bin\Debug\netcoreapp2.0\Superposition.dll
+C:\Users\sony6\source\repos\Superposition\Superposition\bin\Debug\netcoreapp2.0\Superposition.pdb
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.AssemblyInfoInputs.cache
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.AssemblyInfo.cs
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.dll
+C:\Users\sony6\source\repos\Superposition\Superposition\obj\Debug\netcoreapp2.0\Superposition.pdb
