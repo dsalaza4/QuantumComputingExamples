@@ -1,0 +1,14 @@
+:: files ::
+Qsharp.qs
+:: qsim ::
+:: references ::
+C:\Users\monto\Desktop\Quantum Methods\Recursos\MathParser.org-mXparser-v.4.2.0\bin-only\net461\MathParser.org-mXparser.Net461.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.canon\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Canon.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.MetaData.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Primitives.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Common.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Core.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Simulators.dll
+:: command ::
+dotnet "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\build\../tools/qsc/qsc.dll" --input "Qsharp.qs" --references "C:\Users\monto\Desktop\Quantum Methods\Recursos\MathParser.org-mXparser-v.4.2.0\bin-only\net461\MathParser.org-mXparser.Net461.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.canon\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Canon.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.MetaData.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Primitives.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Common.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Core.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "C:\Users\monto\.nuget\packages\microsoft.quantum.development.kit\0.2.1809.701-preview\lib\netstandard2.0\Microsoft.Quantum.Simulation.Simulators.dll" --outputpath obj\qsharp\src\

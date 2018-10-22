@@ -1,0 +1,13 @@
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.csprojAssemblyReference.cache
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.csproj.CoreCompileInputs.cache
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.AssemblyInfoInputs.cache
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.AssemblyInfo.cs
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\Quantum_Incremental_Searches.deps.json
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\Quantum_Incremental_Searches.runtimeconfig.json
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\Quantum_Incremental_Searches.runtimeconfig.dev.json
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\Quantum_Incremental_Searches.dll
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\Quantum_Incremental_Searches.pdb
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.dll
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.pdb
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\bin\Debug\netcoreapp2.0\MathParser.org-mXparser.Net461.dll
+C:\Users\monto\Desktop\Quantum Methods\Quantum_Incremental_Searches\Quantum_Incremental_Searches\obj\Debug\netcoreapp2.0\Quantum_Incremental_Searches.csproj.CopyComplete
