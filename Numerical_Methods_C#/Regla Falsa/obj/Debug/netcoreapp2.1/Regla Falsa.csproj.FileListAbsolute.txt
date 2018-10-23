@@ -1,0 +1,11 @@
+D:\C#\Numerical_Methods_C#\Regla Falsa\bin\Debug\netcoreapp2.1\Regla Falsa.deps.json
+D:\C#\Numerical_Methods_C#\Regla Falsa\bin\Debug\netcoreapp2.1\Regla Falsa.runtimeconfig.json
+D:\C#\Numerical_Methods_C#\Regla Falsa\bin\Debug\netcoreapp2.1\Regla Falsa.runtimeconfig.dev.json
+D:\C#\Numerical_Methods_C#\Regla Falsa\bin\Debug\netcoreapp2.1\Regla Falsa.dll
+D:\C#\Numerical_Methods_C#\Regla Falsa\bin\Debug\netcoreapp2.1\Regla Falsa.pdb
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.csprojAssemblyReference.cache
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.csproj.CoreCompileInputs.cache
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.AssemblyInfoInputs.cache
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.AssemblyInfo.cs
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.dll
+D:\C#\Numerical_Methods_C#\Regla Falsa\obj\Debug\netcoreapp2.1\Regla Falsa.pdb

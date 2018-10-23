@@ -1,0 +1,11 @@
+D:\C#\Numerical_Methods_C#\Biseccion\bin\Debug\netcoreapp2.1\Biseccion.deps.json
+D:\C#\Numerical_Methods_C#\Biseccion\bin\Debug\netcoreapp2.1\Biseccion.runtimeconfig.json
+D:\C#\Numerical_Methods_C#\Biseccion\bin\Debug\netcoreapp2.1\Biseccion.runtimeconfig.dev.json
+D:\C#\Numerical_Methods_C#\Biseccion\bin\Debug\netcoreapp2.1\Biseccion.dll
+D:\C#\Numerical_Methods_C#\Biseccion\bin\Debug\netcoreapp2.1\Biseccion.pdb
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.csprojAssemblyReference.cache
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.csproj.CoreCompileInputs.cache
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.AssemblyInfoInputs.cache
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.AssemblyInfo.cs
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.dll
+D:\C#\Numerical_Methods_C#\Biseccion\obj\Debug\netcoreapp2.1\Biseccion.pdb

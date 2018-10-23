@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "98a0da61af6bb106952350860132ed303ebba529"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Regla Falsa/1.0.0": {
+        "dependencies": {
+          "MathParser.org-mXparser": "4.2.2"
+        },
+        "runtime": {
+          "Regla Falsa.dll": {}
+        }
+      },
+      "MathParser.org-mXparser/4.2.2": {
+        "runtime": {
+          "lib/netcoreapp21/MathParser.org-mXparser.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regla Falsa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathParser.org-mXparser/4.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Md0wYj1cFx5YhuazjzP4ja7Y6WlfklPiyXaxJsCmGXAjEOxoVfBeCq8FOJC5m0n1wPYUJypl/hdOG/e4FNt+1g==",
+      "path": "mathparser.org-mxparser/4.2.2",
+      "hashPath": "mathparser.org-mxparser.4.2.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\C#\Numerical_Methods_C#\Punto Fijo\bin\Debug\netcoreapp2.1\Punto Fijo.deps.json
+D:\C#\Numerical_Methods_C#\Punto Fijo\bin\Debug\netcoreapp2.1\Punto Fijo.runtimeconfig.json
+D:\C#\Numerical_Methods_C#\Punto Fijo\bin\Debug\netcoreapp2.1\Punto Fijo.runtimeconfig.dev.json
+D:\C#\Numerical_Methods_C#\Punto Fijo\bin\Debug\netcoreapp2.1\Punto Fijo.dll
+D:\C#\Numerical_Methods_C#\Punto Fijo\bin\Debug\netcoreapp2.1\Punto Fijo.pdb
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.csprojAssemblyReference.cache
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.csproj.CoreCompileInputs.cache
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.AssemblyInfoInputs.cache
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.AssemblyInfo.cs
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.dll
+D:\C#\Numerical_Methods_C#\Punto Fijo\obj\Debug\netcoreapp2.1\Punto Fijo.pdb
