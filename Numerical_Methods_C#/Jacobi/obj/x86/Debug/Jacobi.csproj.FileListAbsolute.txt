@@ -1,0 +1,6 @@
+/Users/santiago/Projects/Jacobi/Jacobi/bin/Debug/Jacobi.exe
+/Users/santiago/Projects/Jacobi/Jacobi/bin/Debug/Jacobi.pdb
+/Users/santiago/Projects/Jacobi/Jacobi/obj/x86/Debug/Jacobi.csprojAssemblyReference.cache
+/Users/santiago/Projects/Jacobi/Jacobi/obj/x86/Debug/Jacobi.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/Jacobi/Jacobi/obj/x86/Debug/Jacobi.exe
+/Users/santiago/Projects/Jacobi/Jacobi/obj/x86/Debug/Jacobi.pdb
